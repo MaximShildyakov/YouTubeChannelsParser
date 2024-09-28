@@ -1,1 +1,2 @@
 # YouTubeChannelsParser
+This program parses information about a provided YouTube channel username. The information includes the channel title, about section, list of allowed countries for viewing, and the channel link. You can also check if a specific country is allowed to watch the channel you’ve parsed information about. The goal was to retrieve channel information without using the YouTube API. New functionality is coming soon!   
